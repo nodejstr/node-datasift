@@ -1,0 +1,17 @@
+{
+  "author": "Salim KAYABASI <salim.kayabasi@gmail.com>",
+  "name": "datasift",
+  "description": "Complete solution for Datasift",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git@github.com:nodejstr/node-datasift.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "request": "*"
+  },
+  "devDependencies": {}
+}
