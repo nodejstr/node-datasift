@@ -7,7 +7,7 @@ Complete Solution for DataSift.
 Forked from [datasift-rest](https://github.com/timisbusy/node-datasift-rest)
 
 
-## Install*
+## Install
 
     npm install node-datasift
 
@@ -23,5 +23,4 @@ Forked from [datasift-rest](https://github.com/timisbusy/node-datasift-rest)
 
 ## TODO
 
-    * add project to NPM
     Lots of things
