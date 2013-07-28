@@ -1,6 +1,6 @@
 {
   "author": "Salim KAYABASI <salim.kayabasi@gmail.com>",
-  "name": "datasift",
+  "name": "node-datasift",
   "description": "Complete solution for Datasift",
   "version": "0.0.1",
   "repository": {
