@@ -16,7 +16,7 @@ Forked from [datasift-rest](https://github.com/timisbusy/node-datasift-rest)
     var DS = require('node-datasift')
     ds = new DS({username:'',apikey:''})
 
-    ds.helpers.generateTwitterFollowHash([20731458, 18751623, 363450850], function (err, data) {
+    ds.api.helpers.generateTwitterFollowHash([20731458, 18751623, 363450850], function (err, data) {
         if (err) console.log(err)
         console.log(data)
     })
